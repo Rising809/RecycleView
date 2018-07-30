@@ -2,9 +2,15 @@
 
 this  app was  created  with the intent  of  testing RecyclerView
 
-## Requirements
+## Features
 + Vizualize image from the internet
 + Fetch information from an api
+
+##to do
++ adding a search bar
++ adding share funtion
++ adding save funion
+
 
 ## ScreenShoots
 
