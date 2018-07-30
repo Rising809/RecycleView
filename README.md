@@ -6,7 +6,7 @@ this  app was  created  with the intent  of  testing RecyclerView
 + Vizualize image from the internet
 + Fetch information from an api
 
-##to do
+## to do
 + adding a search bar
 + adding share funtion
 + adding save funion
